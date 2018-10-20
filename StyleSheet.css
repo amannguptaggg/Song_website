@@ -1,0 +1,71 @@
+body,html{
+    height:100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bg{
+  background-repeat: no-repeat;
+    background-image: url(background%20Image1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    color: white;
+}
+
+.marginn{
+    margin-right: 5px;
+    
+}
+
+#log{
+    border: 2px;
+    padding:10px;
+    background-color: darkblue;
+    margin-top:20%;
+    
+}
+.heading{
+    font-family:sans-serif;
+    text-align: center;
+}
+.imgAv{
+    margin-left: 40%;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+
+#form1{
+    margin-right: 20px;
+    position:relative;
+    
+}
+.headerImage{
+    position: absolute;
+    width: 100%;
+    height:45%;
+    padding-top: 0px;
+}
+.MainBody{
+   background-color: aqua;
+    width: 100%;
+    height: 220px;
+} 
+.top_bar{
+    background-color: blue;
+    padding: 2px;
+}
+
+.marginnn{
+    margin-left:5px;
+}
+
+.marginBig{
+    margin-left: 8px;
+}
+
+.OnMouse:hover{
+    background-color: darkgreen;
+}
